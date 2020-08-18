@@ -1,0 +1,14 @@
+{
+  "name": "eladsdiscordbot",
+  "version": "1.0.0",
+  "description": "This bot is only to Elads Discord Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheProDev Official",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
